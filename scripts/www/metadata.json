@@ -1,0 +1,7 @@
+{
+  "name": "LifeOS (迭代人生)",
+  "description": "A personal iteration system for capturing thoughts, running 14-day experiments, and building a vault of life principles.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
